@@ -4,7 +4,7 @@
 
 I am now in a learning stage and can make a simple website by using HTML, CSS & Tailwind CSS.
 
-Skills:  HTML / CSS / TailWind / ...
+Skills:  HTML / CSS / TailWind / JavaScript / ...
 
 - 🔭 I’m currently working on Web Developing 
 - 🌱 I’m currently learning JavaScript 
